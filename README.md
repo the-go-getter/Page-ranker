@@ -3,7 +3,7 @@
 database named 'spider.sqlite'.  This file can be removed at any time to restart the process.</h4>   
 
 <strong> Overview of this project:</strong> <br/>
-! [Overview] (https://github.com/the-go-getter/Page-ranker/blob/main/Overview.png)
+! [Overview](https://github.com/the-go-getter/Page-ranker/blob/main/Overview.png)
 
 <br/>You should install the SQLite browser to view and modify 
 the databases from: http://sqlitebrowser.org/
